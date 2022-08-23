@@ -250,9 +250,6 @@ button:hover{
         display: none
         /* padding: 10px; */
     }
-    .asset img{
-        /* width: ; */
-    }
 }
 .banner {
     background: linear-gradient(to bottom,rgba(4, 9, 30, 0.7),rgba(4, 9, 30, 0.7)),url(./Assets/banner3.jpg);
